@@ -2,14 +2,7 @@
   "name": "Okta Spring Boot - Angular demo",
   "description": "Sample app with Okta Developer toolset",
   "image": "heroku/gradle"
-  {
-  "buildpacks": [
-    {
-      "url": "https://github.com/heroku/heroku-buildpack-nodejs"
+  "env": {
+        "BUILDPACK_URL": "heroku/java"
     },
-    {
-      "url": "heroku/java"
-    }
-  ]
-}
 }
