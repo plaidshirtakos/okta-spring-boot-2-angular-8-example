@@ -3,6 +3,6 @@
   "description": "Sample app with Okta Developer toolset",
   "image": "heroku/gradle",
   "env": {
-        "BUILDPACK_URL": "heroku/java"
+        "BUILDPACK_URL": "heroku/gradle"
     }
 }
