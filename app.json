@@ -1,4 +1,5 @@
 {
   "name": "Okta Spring Boot - Angular demo",
-  "description": "Sample app with Okta Developer toolset"
+  "description": "Sample app with Okta Developer toolset",
+  "image": "heroku/gradle"
 }
